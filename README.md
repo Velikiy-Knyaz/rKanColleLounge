@@ -21,7 +21,7 @@ Wororg - a german with a quest for more coffee
 
 Kazul - american r&d guy
 
-Velikiy - angry russian bicycle man
+Velikiy_Knyaz - angry russian bicycle man
 
 AverageTomato - a finn zuizui'ing zuizui's zuizuis
 
